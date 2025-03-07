@@ -1,0 +1,9 @@
+{
+  "name": "youtube-comments-cleaner",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/youtube-comments-cleaner",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project youtube-comments-cleaner --web",
+  "targets": {}
+}
